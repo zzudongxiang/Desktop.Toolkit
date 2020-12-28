@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\bin\Debug\Development Toolkit.exe.config
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\bin\Debug\Development Toolkit.exe
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\bin\Debug\Development Toolkit.pdb
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development Toolkit.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmIcon.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.Properties.Resources.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development Toolkit.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development Toolkit.exe
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development Toolkit.pdb
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmFileMD5.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmBase64.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmGUID.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmRandom.resources
+C:\Users\Admin\Desktop\Development Toolkit\Development Toolkit\obj\Debug\Development_Toolkit.frmRegex.resources
